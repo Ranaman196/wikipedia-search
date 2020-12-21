@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "wikiSearch"
+    }
+  },
+  "defaultProject": "wikiSearch",
+  "cli": {
+    "analytics": false
+  }
 }
